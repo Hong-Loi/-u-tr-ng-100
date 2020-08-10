@@ -1,0 +1,12 @@
+D:\KetThuc\bin\Debug\KetThuc.exe.config
+D:\KetThuc\bin\Debug\KetThuc.exe
+D:\KetThuc\bin\Debug\KetThuc.pdb
+D:\KetThuc\obj\Debug\KetThuc.csprojResolveAssemblyReference.cache
+D:\KetThuc\obj\Debug\KetThuc.exe
+D:\KetThuc\obj\Debug\KetThuc.pdb
+C:\Users\Hong_Loi\Downloads\Nhom8_ChuDe9\Nhom8_ChuDe9\bin\Debug\KetThuc.exe.config
+C:\Users\Hong_Loi\Downloads\Nhom8_ChuDe9\Nhom8_ChuDe9\obj\Debug\KetThuc.exe
+C:\Users\Hong_Loi\Downloads\Nhom8_ChuDe9\Nhom8_ChuDe9\obj\Debug\KetThuc.pdb
+C:\Users\Hong_Loi\Downloads\Nhom8_ChuDe9\Nhom8_ChuDe9\bin\Debug\KetThuc.exe
+C:\Users\Hong_Loi\Downloads\Nhom8_ChuDe9\Nhom8_ChuDe9\bin\Debug\KetThuc.pdb
+C:\Users\Hong_Loi\Downloads\Nhom8_ChuDe9\Nhom8_ChuDe9\obj\Debug\KetThuc.csprojResolveAssemblyReference.cache
